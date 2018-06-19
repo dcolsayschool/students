@@ -1,3 +1,5 @@
+# Présentation
+
 Il y a des problèmes en programmation qui reviennent tellement souvent qu'on a créé toute une série de bonnes pratiques que l'on a réunies sous le nom de *design patterns*.
  
 Un des plus célèbres design patterns s'appelle **MVC**, qui signifie **Modèle - Vue - Contrôleur**. 
